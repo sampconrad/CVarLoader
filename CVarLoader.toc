@@ -1,0 +1,8 @@
+## Interface: 110000, 110002
+## Title: |cff00FF7FCVarLoader|r
+## IconTexture: Interface\ICONS\Pet_Type_Mechanical
+## Author: sampconrad
+## Notes: Hard-codes CVars
+## Version: 1.0
+
+Code.lua
